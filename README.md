@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" height="350">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/mark-the-artichoke/)
-![GitHub followers](https://img.shields.io/github/followers/Setka1324?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/MarkT-D?label=Follow&style=social)
 
 
 ```python
