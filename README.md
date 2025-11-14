@@ -24,12 +24,6 @@ class Me:
 
 ```
 
-## 👇 Hit in your console or terminal to connect with me.
-
-```bash
-curl tuples.live
-```
-
 
 
 ## :space_invader: Coding Me
