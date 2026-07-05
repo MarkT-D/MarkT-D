@@ -19,7 +19,7 @@ class Me:
         ]
 
     def say_hi(self):
-        print("I build GenAI products that ship.")
+        print("It worked in the demo, I swear.")
 ```
 
 ## :space_invader: Coding Me
