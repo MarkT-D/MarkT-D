@@ -26,7 +26,7 @@ class Me:
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**QuotaClimat media framing**](https://github.com/MarkT-D/quota-climate-clean) | How news outlets frame climate crises. LLM labelling distilled into XLM-RoBERTa, served in a Next.js dashboard. 🥈 Environmental Award | Next.js · FastAPI · PyTorch · PostgreSQL |
+| [**QuotaClimat media framing**](https://github.com/MarkT-D/quotaclimat-media-framing) | How news outlets frame climate crises. LLM labelling distilled into XLM-RoBERTa, served in a Next.js dashboard. 🥈 Environmental Award | Next.js · FastAPI · PyTorch · PostgreSQL |
 | [**XplorIT**](https://github.com/MarkT-D/XplorIT) | Well-being classification of self-reflection videos, with LIME/SHAP interpretation. 🥇 Well-Being track | PyTorch · Hugging Face · scikit-learn · Whisper |
 
 ## 🛠️ Toolbox
