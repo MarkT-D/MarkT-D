@@ -7,7 +7,6 @@
 Every project, animated, with the full story behind it.<br>
 From a terminal: `curl -sL temchenko.dev/card`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-temchenko.dev-35804E?style=flat-square&logo=githubpages&logoColor=white)](https://temchenko.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-the-artichoke/)
 
 ## Featured
