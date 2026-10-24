@@ -1,8 +1,12 @@
 # Hi, I'm Mark 👋
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**AI Engineer** who takes LLM systems from a client conversation to production: pipelines, integrations, evals and the app around them.
+**AI Engineer** in Barcelona. I take LLM systems from a client conversation to production: pipelines, integrations, evals and the app around them.
 
+### 🌐 [markt-d.github.io](https://markt-d.github.io)
+My portfolio: every project with a live animation of how it works, and the full story behind it. Or from a terminal: `curl -sL markt-d.github.io/card`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-markt--d.github.io-35804E?style=flat-square&logo=githubpages&logoColor=white)](https://markt-d.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-the-artichoke/)
 ![GitHub followers](https://img.shields.io/github/followers/MarkT-D?label=Follow&style=social)
 
@@ -26,6 +30,7 @@ class Me:
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**This portfolio**](https://github.com/MarkT-D/MarkT-D.github.io) | Six case studies, each with an animated isometric scene. Static export on GitHub Pages. [See it live](https://markt-d.github.io) | Next.js · TypeScript · Tailwind · SVG |
 | [**QuotaClimat media framing**](https://github.com/MarkT-D/quotaclimat-media-framing) | How news outlets frame climate crises. LLM labelling distilled into XLM-RoBERTa, served in a Next.js dashboard. 🥈 Environmental Award | Next.js · FastAPI · PyTorch · PostgreSQL |
 | [**XplorIT**](https://github.com/MarkT-D/XplorIT) | Well-being classification of self-reflection videos, with LIME/SHAP interpretation. 🥇 Well-Being track | PyTorch · Hugging Face · scikit-learn · Whisper |
 
