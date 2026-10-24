@@ -1,5 +1,5 @@
 # Hi, I'm Mark 👋
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<a href="https://temchenko.dev"><img align="right" src="cactus.svg" width="132" alt="Pixel cactus"></a>
 
 **AI Engineer** in Barcelona. I take LLM systems from a client's problem to production.
 
