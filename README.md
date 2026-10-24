@@ -18,6 +18,12 @@ From a terminal: `curl -sL temchenko.dev/card`
 | [**QuotaClimat media framing**](https://github.com/MarkT-D/quotaclimat-media-framing) | How news outlets frame climate. XLM-RoBERTa + Next.js dashboard. 🥈 Environmental Award |
 | [**XplorIT**](https://github.com/MarkT-D/XplorIT) | Well-being from self-reflection videos, with LIME/SHAP. 🥇 Well-Being track |
 
+<p>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MarkT-D&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=35804E&icon_color=35804E&text_color=8A948D">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkT-D&layout=compact&hide_border=true&bg_color=00000000&title_color=35804E&icon_color=35804E&text_color=8A948D">
+</p>
+<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=MarkT-D&hide_border=true&background=00000000&ring=35804E&fire=35804E&currStreakLabel=35804E&currStreakNum=8A948D&sideNums=8A948D&sideLabels=8A948D&dates=8A948D&stroke=8A948D">
+
 **Stack:** Python · TypeScript · PyTorch · Hugging Face · Claude/OpenAI APIs · Next.js · FastAPI · PostgreSQL · Docker · AWS
 
 <sub>It worked in the demo, I swear.</sub>
